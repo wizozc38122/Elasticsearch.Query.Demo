@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elasticsearch.Query.Demo.WebApi", "Elasticsearch.Query.Demo.WebApi\Elasticsearch.Query.Demo.WebApi.csproj", "{49D3DB89-B5C4-431D-ACB8-5282DB91AC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elasticsearch.Query.Demo.Repository", "Elasticsearch.Query.Demo.Repository\Elasticsearch.Query.Demo.Repository.csproj", "{4C409A0A-39B2-4577-9CAE-9E4CD245D154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elasticsearch.Query.Demo.Service", "Elasticsearch.Query.Demo.Service\Elasticsearch.Query.Demo.Service.csproj", "{723D7D8B-2F34-43FA-AD13-BADEA2EB1789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D3DB89-B5C4-431D-ACB8-5282DB91AC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D3DB89-B5C4-431D-ACB8-5282DB91AC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D3DB89-B5C4-431D-ACB8-5282DB91AC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D3DB89-B5C4-431D-ACB8-5282DB91AC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C409A0A-39B2-4577-9CAE-9E4CD245D154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C409A0A-39B2-4577-9CAE-9E4CD245D154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C409A0A-39B2-4577-9CAE-9E4CD245D154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C409A0A-39B2-4577-9CAE-9E4CD245D154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723D7D8B-2F34-43FA-AD13-BADEA2EB1789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723D7D8B-2F34-43FA-AD13-BADEA2EB1789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723D7D8B-2F34-43FA-AD13-BADEA2EB1789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723D7D8B-2F34-43FA-AD13-BADEA2EB1789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
